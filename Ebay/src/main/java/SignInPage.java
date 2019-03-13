@@ -1,10 +1,6 @@
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Page object model design for the Sign In Page
- * Please use the HomePage class as reference
- */
 public class SignInPage extends CommonAPI {
 
     @FindBy (id = "sgnBt")

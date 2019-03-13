@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/classes/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/test-classes/TestHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Autotests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NabilPracticeFramework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/CreateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/CreateAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/TestSignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/TestSignInPage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Common/target/" />
     <ignored path="$PROJECT_DIR$/AutomationPractice/target/" />
+    <ignored path="$PROJECT_DIR$/Ebay/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,17 +26,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,13 +45,19 @@
         <option value="$PROJECT_DIR$/AutomationPractice/pom.xml" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreatAccountPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/CreateAccountPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreateAccountPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/main/java/SignInPage.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/TestSignInPage.java" />
+        <option value="$PROJECT_DIR$/Ebay/pom.xml" />
+        <option value="$PROJECT_DIR$/Ebay/src/main/java/CreateAccountPage.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/main/java/HomePage.java" />
       </list>
     </option>
   </component>
@@ -121,9 +113,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="1122" />
     <option name="height" value="726" />
   </component>
   <component name="ProjectView">
@@ -148,6 +140,27 @@
             <path>
               <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
               <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Ebay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -156,6 +169,36 @@
               <item name="Ebay" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +206,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552446333246" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552447630547" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -187,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestSignInPage">
+  <component name="RunManager" selected="TestNG.TestCreateAccountPage">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="NabilPracticeFramework" />
       <option name="VM_PARAMETERS" />
@@ -289,9 +332,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCreateAccountPage" />
         <item itemvalue="TestNG.TestSignInPage" />
         <item itemvalue="TestNG.TestHomePage" />
-        <item itemvalue="TestNG.TestCreateAccountPage" />
         <item itemvalue="TestNG.TestSignInPage (1)" />
         <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToTheSignInPage" />
       </list>
@@ -311,18 +354,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSignInPage - 2019.03.12 at 17h 10m 10s.xml">
-      <configuration name="TestSignInPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSignInPage - 2019.03.12 at 17h 13m 17s.xml">
-      <configuration name="TestSignInPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSignInPage - 2019.03.12 at 17h 16m 38s.xml">
-      <configuration name="TestSignInPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSignInPage - 2019.03.12 at 17h 17m 07s.xml">
-      <configuration name="TestSignInPage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestSignInPage - 2019.03.12 at 17h 19m 06s.xml">
       <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
@@ -341,20 +372,31 @@
     <history-entry file="TestCreateAccountPage - 2019.03.12 at 17h 43m 48s.xml">
       <configuration name="TestCreateAccountPage" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestCreateAccountPage - 2019.03.12 at 23h 04m 54s.xml">
+      <configuration name="TestCreateAccountPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2019.03.12 at 23h 05m 25s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSignInPage - 2019.03.12 at 23h 05m 39s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCreateAccountPage - 2019.03.12 at 23h 24m 31s.xml">
+      <configuration name="TestCreateAccountPage" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1122" height="726" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20193861" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23148148" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.329653" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3280757" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -363,7 +405,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.38485804" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.38485804" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" weight="0.32956383" />
@@ -375,6 +417,16 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/CreateAccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreateAccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/NabilPracticeFramework.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -382,27 +434,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/NabilPracticeFramework.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/CreateAccountPage.java" />
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreateAccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/Ebay/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="11">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/CreateAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/TestCreateAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/TestSignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

@@ -5,10 +5,6 @@ import org.testng.annotations.BeforeClass;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * Change the property of the chrome driver!
- * Not everyone will share the same property as me.
- */
 public class CommonAPI {
 
     WebDriver driver = null;

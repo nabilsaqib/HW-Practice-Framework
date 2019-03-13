@@ -8,7 +8,6 @@ public class TestSignInPage extends CommonAPI {
     String signInPageUrl = "https://www.ebay.com/signin/s";
     SignInPage signInPage;
 
-    // Navigate to the sign in page url
     @BeforeClass
     public void initialize() {
         this.driver.navigate().to(this.signInPageUrl);

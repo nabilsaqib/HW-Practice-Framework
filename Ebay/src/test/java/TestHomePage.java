@@ -17,25 +17,6 @@ public class TestHomePage extends CommonAPI {
         this.driver.navigate().to(this.homepageUrl);
         this.homePage = PageFactory.initElements(this.driver, HomePage.class);
     }
-//
-//    @Test
-//    public void testUserCanNavigateToHomePage() {
-//        String homepageTitle = "My Store";
-//        Assert.assertEquals(this.driver.getTitle(), homepageTitle);
-//    }
-//
-//    @Test
-//    public void testUserCanNavigateToTheSignInPage() {
-//        this.homePage.clickOnSignInTab();
-//        String signInPageUrl =
-//                "http://automationpractice.com/index.php?controller=authentication&back=my-account";
-//        Assert.assertEquals(this.driver.getCurrentUrl(), signInPageUrl);
-//    }
-//
-//    @Test
-//    public void testUserCanSearchForDresses() {
-//        this.homePage.searchFor("books");
-//    }
 
     @Test
     public void ebayTitle(){
