@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795a7253-46ff-4510-b325-bb1ea3817d97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/classes/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationPractice/target/test-classes/TestHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autotests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NabilPracticeFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Common/target/classes/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,38 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="180">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -70,14 +55,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Common/pom.xml" />
-        <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/Common/src/main/java/CommonAPI.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
         <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
-        <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreatAccountPage.java" />
+        <option value="$PROJECT_DIR$/AutomationPractice/src/main/java/CreateAccountPage.java" />
+        <option value="$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreateAccountPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -88,64 +76,95 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AutomationPractice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AutomationPractice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AutomationPractice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AutomationPractice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.pnt.autotests:Common:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Autotests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
-    <option name="width" value="1305" />
-    <option name="height" value="826" />
+    <option name="width" value="1280" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autotests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
               <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NabilPracticeFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NabilPracticeFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552270812983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552446333246" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -168,24 +187,68 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage">
-    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestSignInPage">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="NabilPracticeFramework" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="NabilPracticeFramework" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCreateAccountPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="TestCreateAccountPage" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testUserCanNavigateToHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestHomePage" />
-      <option name="METHOD_NAME" value="testUserCanNavigateToHomePage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -204,11 +267,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSignInPage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSignInPage" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSignInPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSignInPage" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSignInPage" />
         <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.TestCreateAccountPage" />
+        <item itemvalue="TestNG.TestSignInPage (1)" />
         <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToTheSignInPage" />
-        <item itemvalue="TestNG.TestHomePage.testUserCanNavigateToHomePage" />
       </list>
     </recent_temporary>
   </component>
@@ -226,33 +311,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 05m 18s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage - 2019.03.12 at 17h 10m 10s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToHomePage - 2019.03.10 at 22h 06m 09s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToHomePage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage - 2019.03.12 at 17h 13m 17s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 06m 36s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage - 2019.03.12 at 17h 16m 38s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 07m 26s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage - 2019.03.12 at 17h 17m 07s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 07m 52s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage - 2019.03.12 at 17h 19m 06s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 09m 15s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage - 2019.03.12 at 17h 20m 51s.xml">
+      <configuration name="TestSignInPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_testUserCanNavigateToTheSignInPage - 2019.03.10 at 22h 10m 04s.xml">
-      <configuration name="TestHomePage.testUserCanNavigateToTheSignInPage" configurationId="TestNG" />
+    <history-entry file="TestSignInPage_(1) - 2019.03.12 at 17h 21m 24s.xml">
+      <configuration name="TestSignInPage (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage - 2019.03.10 at 22h 10m 29s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
+    <history-entry file="TestCreateAccountPage - 2019.03.12 at 17h 37m 23s.xml">
+      <configuration name="TestCreateAccountPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCreateAccountPage - 2019.03.12 at 17h 40m 27s.xml">
+      <configuration name="TestCreateAccountPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCreateAccountPage - 2019.03.12 at 17h 43m 48s.xml">
+      <configuration name="TestCreateAccountPage" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1305" height="826" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -260,37 +351,30 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19556612" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20193861" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32833788" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3280757" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.38485804" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.32956383" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.38638163" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -298,45 +382,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/NabilPracticeFramework.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Common/src/main/java/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/pom.xml">
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/CreateAccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestCreateAccountPage.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/main/java/SignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestSignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AutomationPractice/src/test/java/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
